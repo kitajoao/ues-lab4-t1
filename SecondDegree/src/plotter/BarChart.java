@@ -1,4 +1,4 @@
-package chart;
+package plotter;
 public class BarChart {
     private boolean filled;
     private char character;

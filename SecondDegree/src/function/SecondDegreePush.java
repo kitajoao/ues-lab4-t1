@@ -5,13 +5,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class SecondDegree {
+public class SecondDegreePush {
     private int exponentTwo,
             exponentOne,
             exponentZero;
     private BarChart output;
 
-    public SecondDegree(int exponentTwo, int exponentOne, int exponentZero) {
+    public SecondDegreePush(int exponentTwo, int exponentOne, int exponentZero) {
         this.exponentTwo = exponentTwo;
         this.exponentOne = exponentOne;
         this.exponentZero = exponentZero;

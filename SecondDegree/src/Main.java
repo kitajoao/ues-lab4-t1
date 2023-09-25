@@ -1,12 +1,12 @@
-import chart.BarChart;
-import function.SecondDegree;
+import plotter.BarChart;
+import function.SecondDegreePush;
 
 public class Main {
     public static void main(String[] args) {
 
         BarChart bc = new BarChart(true, '#');
 
-        SecondDegree ret = new SecondDegree(1, -8, 12);
+        SecondDegreePush ret = new SecondDegreePush(1, -8, 12);
 
         ret.connect(bc);
         ret.present();
