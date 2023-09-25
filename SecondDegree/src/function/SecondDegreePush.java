@@ -1,5 +1,5 @@
 package function;
-import chart.BarChart;
+import plotter.BarChart;
 
 import java.util.ArrayList;
 import java.util.Arrays;
